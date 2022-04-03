@@ -1,0 +1,127 @@
+Jarvis Command Are
+
+# PC
+
+- PC
+- Internet Speed
+- Shutdown
+- Log Out
+- Reboot
+- No Voice
+- WiKiPedia
+- Date
+- Time
+- Day
+- Set Alarm
+- Temperature
+- Check Internet
+- Birthday
+
+# Software
+
+- Open and Close Vs Code
+- Open and Close blue
+- Open and Close Excel
+- Open and Close Word
+- Open and Close Explorer
+- Open and Close Zoom
+- Open and Close Whatsapp
+- open Pass
+
+# All Open Folder 
+
+- Open My Folder
+- Open Movies Folder
+- Open Python Folder
+
+# Remember And Volume
+
+- What Do You Remember
+- Jarvis Remember
+- volume up
+- volume down
+- volume Mute
+
+# Browser
+
+- New Window
+- History
+- Download
+- Switch Tab
+- Open And Close New Tab
+- Open and Close Youtube
+- Open and Close Facebook
+- Open and Close Instagram
+- Open and Close Google
+- Open and Close Yahoo
+- Open and Close Downloader
+- Open and Close Wi-Fi
+- Open and Close Gmail
+- Open and Close Speed Test Website
+- Open and Close Snapdeal
+- Open and Close Amazon
+- Open and Close Minecraft Server
+- Open and Close Flipkart
+- Search in Youtube
+- Search in Google
+
+# Video And Music/Song
+
+- Play Music/Song
+- play Video
+
+# Jarvis - Command
+
+- How Are You
+- Fine/Happy/Ok 
+- Who Make You
+- Who Are You
+- Switch The Window
+- hello Jarvis
+- Your Name
+- How You Feel
+- screenshot
+- Help Me Jarvis
+- Tell Me Joke
+- Goodbey Jarvis
+
+# Auto
+
+- Write A Note
+
+# Corona
+
+- Corona / Covid
+
+# Instagram
+
+- Instagram Profile
+
+# Calculate
+
+- can you calculate / do some calculation
+
+# Find Location
+
+Where Is (Location Name)
+
+# Youtube Videos and delete
+
+- play youtube video
+
+- delete movie
+
+# Hide And Un Hide File
+
+-  hide all file / hide this folder / visible for everyone
+
+# Location And Wether
+
+- location
+
+- weather
+
+# YT 
+
+- youtube download
+ 
